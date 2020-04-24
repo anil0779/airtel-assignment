@@ -1,0 +1,15 @@
+.filter-conatiner {
+    width: 30%;
+    background: lightgrey;
+    margin: 10px;
+}
+
+.filter-item {
+    padding: 1rem;
+}
+
+.filter-heading-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+}

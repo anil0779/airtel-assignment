@@ -1,0 +1,14 @@
+.search-container {
+    display: flex;
+    margin: 2rem;
+    margin-bottom: 0px;
+}
+
+.search-btn-wrapper {
+    padding-left: 1rem;
+}
+
+.search-box {
+    margin-right: 1rem;
+    background: lightgrey;
+}
